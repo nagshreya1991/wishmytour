@@ -1,0 +1,7 @@
+{
+    "User": true,
+    "Package": true,
+    "Booking": true,
+    "Admin": true,
+    "Frontend": true
+}
